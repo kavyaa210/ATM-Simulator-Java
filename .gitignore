@@ -1,0 +1,10 @@
+# Compiled Java files
+*.class
+
+# Local ATM account data
+atm_accounts.txt
+atm_accounts.txt.tmp
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
